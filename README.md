@@ -29,7 +29,7 @@ The following image shows the web application's appearance and functionality:
 password generator demo
 
 How to Complete the Challenge
-Follow these steps to complete the challenge:
+Follow these steps to complete the challenge: 
 
 IMPORTANT
 Make sure to clone the starter code repository and make your own repository with the starter code. Do not fork the starter code repository!
