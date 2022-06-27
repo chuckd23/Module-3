@@ -1,5 +1,5 @@
 # 03 JavaScript: Password Generator
-[Launch Password Generator](https://chuckd23.github.io/Module-3-Password-Generator.github.io/)
+[Launch Password Generator](https://(https://github.com/chuckd23/Module-3/blob/main/README.md))
 
 Create an application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
 
